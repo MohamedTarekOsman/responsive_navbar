@@ -13,4 +13,4 @@ This is a simple React component for a responsive navigation bar with a toggle f
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/MohamedTarekOsman/responsive_navbar
